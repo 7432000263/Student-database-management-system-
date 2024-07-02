@@ -17,7 +17,7 @@ This Python application provides a user-friendly interface for managing student 
 2. **Clone Repository:** Use Git to clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/<your-username>/student-database-management-system.git
+   git clone https://github.com/surajit-git/Student-database-management-system-.git
    ```
 
 3. **Install Dependencies:** Navigate to the project directory and install the required packages using pip:
