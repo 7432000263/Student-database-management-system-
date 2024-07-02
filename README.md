@@ -50,7 +50,7 @@ The GUI will provide buttons or menu options for adding, viewing, searching, upd
 
 Feel free to fork this repository, make improvements, and submit pull requests to share your contributions. We appreciate your help in making this project even better!
 
-**Project Output**
+**Project Output:**
 
 ![image](https://github.com/surajit-git/Student-database-management-system-/assets/127221305/1394033c-fc90-4280-ade1-2cbc46ed0f1f)
 
